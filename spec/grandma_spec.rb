@@ -1,3 +1,4 @@
+
 describe '#speak_to_grandma' do
   it 'responds with HUH?! SPEAK UP, SONNY! unless you are shouting' do
     expect(speak_to_grandma('Hi Nana, how are you?')).to eq 'HUH?! SPEAK UP, SONNY!'
