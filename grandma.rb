@@ -8,3 +8,8 @@
 # and yells back
 
 # NO, NOT SINCE 1938!
+
+def speak_to_grandma say
+  say != say.upcase ? "HUH?! SPEAK UP, SONNY!" : "NO, NOT SINCE 1938!"
+  
+end
