@@ -1,0 +1,18 @@
+Ruby Conditionals
+
+1. Define flow control for when a Ruby program is executed
+
+2. Implement flow controll in different ways 
+
+3. Use if else and elsif statements to control flow. 
+
+
+Control Flow:
+
+let's you tell your program what code to execute conditionally. 
+
+
+Notes; 
+
+The def grandma method only passes when you used return. Puts did not work. 
+
